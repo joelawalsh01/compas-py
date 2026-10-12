@@ -20,3 +20,7 @@ Main Dataset:
 compas.db - a sqlite3 database containing criminal history, jail and prison time, demographics and COMPAS risk scores for defendants from Broward County.
 
 Other files as needed for the analysis.
+
+Teaching notebooks:
+"COMPAS Analysis - Student.ipynb" - a pure-Python port of the analysis with the conclusions turned into scaffolded questions and reflection prompts.
+Requirements: pip install -r requirements.txt
